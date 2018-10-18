@@ -1,1 +1,1 @@
-Requires youtube-dl.exe and ffmpeg.exe
+Requires youtube-dl and ffmpeg
